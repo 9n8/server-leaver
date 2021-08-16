@@ -1,1 +1,5 @@
-# server-leaver
+- dm @pw#1337 for help
+- simple serevr leaver
+- open it put ur token
+- enter 
+- leaves serevrs doesnt delete servers u own
