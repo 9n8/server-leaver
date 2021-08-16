@@ -1,7 +1,7 @@
 import requests, threading, os
 from colorama import Fore
 
-os.system(f'title [serverl leaver]')
+os.system(f'title [server leaver]')
 os.system(f'mode 80,20')
 
 print(f'                                 {Fore.CYAN}server leaver \n\n')
