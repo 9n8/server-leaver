@@ -6,7 +6,7 @@ os.system(f'mode 80,20')
 
 print(f'                                 {Fore.CYAN}server leaver \n\n')
 
-print(f'                                   {Fore.YELLOW}@pw1337 {Fore.LIGHTMAGENTA_EX} \n')
+print(f'                                   {Fore.YELLOW}@II1337 {Fore.LIGHTMAGENTA_EX} \n')
 
 def leave(guild_id, token):
    rq = requests.delete(f"https://discord.com/api/v9/users/@me/guilds/{guild_id}", headers={"Authorization": token})
