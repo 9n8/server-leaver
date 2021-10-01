@@ -1,4 +1,4 @@
-- dm @II#1337 for help
+
 - simple serevr leaver
 - open it put ur token
 - enter 
